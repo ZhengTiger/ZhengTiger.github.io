@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R package | Hu Zheng</title>
+    <link>https://zhenghu159.github.io/tag/r-package/</link>
+      <atom:link href="https://zhenghu159.github.io/tag/r-package/index.xml" rel="self" type="application/rss+xml" />
+    <description>R package</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhenghu159.github.io/media/logo_hu34d101b141150f03f37470572482d990_89726_300x300_fit_lanczos_3.png</url>
+      <title>R package</title>
+      <link>https://zhenghu159.github.io/tag/r-package/</link>
+    </image>
+    
+    <item>
+      <title>Biorplot</title>
+      <link>https://zhenghu159.github.io/project/biorplot/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/biorplot/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Biorplot&lt;/code&gt; is an R package for plotting bioinformatics graphs with low-code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hic_down</title>
+      <link>https://zhenghu159.github.io/project/hic_down/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/hic_down/</guid>
+      <description>&lt;p&gt;&lt;code&gt;hic_down&lt;/code&gt; is a Python tool for hic downstream analysis:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;loop analysis&lt;/li&gt;
+&lt;li&gt;tad analysis&lt;/li&gt;
+&lt;li&gt;difference loop&lt;/li&gt;
+&lt;li&gt;difference tad&lt;/li&gt;
+&lt;li&gt;compartment analysis&lt;/li&gt;
+&lt;li&gt;show result above with coolbox&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

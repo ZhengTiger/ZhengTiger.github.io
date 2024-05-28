@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hu Zheng</title>
+    <link>https://zhenghu159.github.io/project/</link>
+      <atom:link href="https://zhenghu159.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhenghu159.github.io/media/logo_hu34d101b141150f03f37470572482d990_89726_300x300_fit_lanczos_3.png</url>
+      <title>Projects</title>
+      <link>https://zhenghu159.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>blogdown-book-zh-cn</title>
+      <link>https://zhenghu159.github.io/project/blogdown-book-zh-cn/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/blogdown-book-zh-cn/</guid>
+      <description>&lt;p&gt;&lt;code&gt;blogdown-book-zh-cn&lt;/code&gt; project attempts to translate &lt;strong&gt;blogdown: Creating Websites with R Markdown&lt;/strong&gt; into Simplified Chinese.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mPFC-web</title>
+      <link>https://zhenghu159.github.io/project/mpfc-web/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/mpfc-web/</guid>
+      <description>&lt;p&gt;&lt;code&gt;mPFC-web&lt;/code&gt; project attempts to show scRNAseq data and in situ data from our research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>r-pkgs-zh-cn</title>
+      <link>https://zhenghu159.github.io/project/r-pkgs-zh-cn/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/r-pkgs-zh-cn/</guid>
+      <description>&lt;p&gt;&lt;code&gt;r-pkgs-zh-cn&lt;/code&gt; project attempts to translate &lt;strong&gt;R Packages (the second edition)&lt;/strong&gt; into Simplified Chinese.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>r4ds-zh-cn</title>
+      <link>https://zhenghu159.github.io/project/r4ds-zh-cn/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/r4ds-zh-cn/</guid>
+      <description>&lt;p&gt;&lt;code&gt;r4ds-zh-cn&lt;/code&gt; project attempts to translate &lt;strong&gt;R for Data Science (the second edition)&lt;/strong&gt; into Simplified Chinese.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biorplot</title>
+      <link>https://zhenghu159.github.io/project/biorplot/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/biorplot/</guid>
+      <description>&lt;p&gt;&lt;code&gt;Biorplot&lt;/code&gt; is an R package for plotting bioinformatics graphs with low-code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hic_down</title>
+      <link>https://zhenghu159.github.io/project/hic_down/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/hic_down/</guid>
+      <description>&lt;p&gt;&lt;code&gt;hic_down&lt;/code&gt; is a Python tool for hic downstream analysis:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;loop analysis&lt;/li&gt;
+&lt;li&gt;tad analysis&lt;/li&gt;
+&lt;li&gt;difference loop&lt;/li&gt;
+&lt;li&gt;difference tad&lt;/li&gt;
+&lt;li&gt;compartment analysis&lt;/li&gt;
+&lt;li&gt;show result above with coolbox&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

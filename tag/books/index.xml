@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books | Hu Zheng</title>
+    <link>https://zhenghu159.github.io/tag/books/</link>
+      <atom:link href="https://zhenghu159.github.io/tag/books/index.xml" rel="self" type="application/rss+xml" />
+    <description>Books</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhenghu159.github.io/media/logo_hu34d101b141150f03f37470572482d990_89726_300x300_fit_lanczos_3.png</url>
+      <title>Books</title>
+      <link>https://zhenghu159.github.io/tag/books/</link>
+    </image>
+    
+    <item>
+      <title>blogdown-book-zh-cn</title>
+      <link>https://zhenghu159.github.io/project/blogdown-book-zh-cn/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/blogdown-book-zh-cn/</guid>
+      <description>&lt;p&gt;&lt;code&gt;blogdown-book-zh-cn&lt;/code&gt; project attempts to translate &lt;strong&gt;blogdown: Creating Websites with R Markdown&lt;/strong&gt; into Simplified Chinese.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>r-pkgs-zh-cn</title>
+      <link>https://zhenghu159.github.io/project/r-pkgs-zh-cn/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/r-pkgs-zh-cn/</guid>
+      <description>&lt;p&gt;&lt;code&gt;r-pkgs-zh-cn&lt;/code&gt; project attempts to translate &lt;strong&gt;R Packages (the second edition)&lt;/strong&gt; into Simplified Chinese.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>r4ds-zh-cn</title>
+      <link>https://zhenghu159.github.io/project/r4ds-zh-cn/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhenghu159.github.io/project/r4ds-zh-cn/</guid>
+      <description>&lt;p&gt;&lt;code&gt;r4ds-zh-cn&lt;/code&gt; project attempts to translate &lt;strong&gt;R for Data Science (the second edition)&lt;/strong&gt; into Simplified Chinese.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
