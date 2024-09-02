@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>📃 Publications | Hu Zheng</title>
-    <link>https://zhenghu159.github.io/publication/</link>
-      <atom:link href="https://zhenghu159.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ZhengTiger.github.io/publication/</link>
+      <atom:link href="https://ZhengTiger.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>📃 Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://zhenghu159.github.io/media/logo_hu34d101b141150f03f37470572482d990_89726_300x300_fit_lanczos_3.png</url>
+      <url>https://ZhengTiger.github.io/media/logo_hu34d101b141150f03f37470572482d990_89726_300x300_fit_lanczos_3.png</url>
       <title>📃 Publications</title>
-      <link>https://zhenghu159.github.io/publication/</link>
+      <link>https://ZhengTiger.github.io/publication/</link>
     </image>
     
   </channel>
