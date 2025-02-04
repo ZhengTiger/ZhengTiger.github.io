@@ -13,20 +13,39 @@
     </image>
     
     <item>
+      <title>Modular organization of mouse prefrontal cortex subnetwork revealed by spatial single-cell multi-omic analysis of SPIEDER-Seq</title>
+      <link>https://ZhengTiger.github.io/publication/modular-organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spieder-seq/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZhengTiger.github.io/publication/modular-organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spieder-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular and spatial signatures of neural circuits in the developing mouse prefrontal cortex</title>
+      <link>https://ZhengTiger.github.io/publication/molecular-and-spatial-signatures-of-neural-circuits-in-the-developing-mouse-prefrontal-cortex/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZhengTiger.github.io/publication/molecular-and-spatial-signatures-of-neural-circuits-in-the-developing-mouse-prefrontal-cortex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPIDER-web</title>
+      <link>https://ZhengTiger.github.io/project/spider-web/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZhengTiger.github.io/project/spider-web/</guid>
+      <description>&lt;p&gt;&lt;code&gt;SPIDER-web&lt;/code&gt; is a shiny application that attempts to show scRNAseq data and in situ data from our SPIDER-Seq project. Home Page provides information about our project and how to use it interactively. Users can access our scRNAseq data through scRNAseq Page, and access our spatial-omics data through Spatial Page. 3D visualization Page provides interactive 3D visualization of the PFC transcriptome and projectome.&lt;/p&gt;
+&lt;p&gt;You can access our online website at &lt;a href=&#34;https://huggingface.co/spaces/TigerZheng/SPIDER-web&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/spaces/TigerZheng/SPIDER-web&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Overview of the SPIDER-web:&lt;/p&gt;
+&lt;img src=&#34;./FigureS11.jpg&#34; width=&#34;100%&#34;&gt;
+</description>
+    </item>
+    
+    <item>
       <title>blogdown-book-zh-cn</title>
       <link>https://ZhengTiger.github.io/project/blogdown-book-zh-cn/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       <guid>https://ZhengTiger.github.io/project/blogdown-book-zh-cn/</guid>
       <description>&lt;p&gt;&lt;code&gt;blogdown-book-zh-cn&lt;/code&gt; project attempts to translate &lt;strong&gt;blogdown: Creating Websites with R Markdown&lt;/strong&gt; into Simplified Chinese.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mPFC-web</title>
-      <link>https://ZhengTiger.github.io/project/mpfc-web/</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ZhengTiger.github.io/project/mpfc-web/</guid>
-      <description>&lt;p&gt;&lt;code&gt;mPFC-web&lt;/code&gt; project attempts to show scRNAseq data and in situ data from our research.&lt;/p&gt;
 </description>
     </item>
     
