@@ -5,7 +5,7 @@
     <link>https://ZhengTiger.github.io/project/</link>
       <atom:link href="https://ZhengTiger.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZhengTiger.github.io/media/logo_hu34d101b141150f03f37470572482d990_89726_300x300_fit_lanczos_3.png</url>
       <title>Projects</title>
@@ -13,41 +13,48 @@
     </image>
     
     <item>
-      <title>SPIDER-web</title>
-      <link>https://ZhengTiger.github.io/project/spider-web/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://ZhengTiger.github.io/project/spider-web/</guid>
-      <description>&lt;p&gt;&lt;code&gt;SPIDER-web&lt;/code&gt; is a shiny application that attempts to show scRNAseq data and in situ data from our SPIDER-Seq project. Home Page provides information about our project and how to use it interactively. Users can access our scRNAseq data through scRNAseq Page, and access our spatial-omics data through Spatial Page. 3D visualization Page provides interactive 3D visualization of the PFC transcriptome and projectome.&lt;/p&gt;
-&lt;p&gt;You can access our online website at &lt;a href=&#34;https://huggingface.co/spaces/TigerZheng/SPIDER-web&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://huggingface.co/spaces/TigerZheng/SPIDER-web&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Overview of the SPIDER-web:&lt;/p&gt;
-&lt;img src=&#34;./FigureS11.jpg&#34; width=&#34;100%&#34;&gt;
+      <title>Brian-Omics</title>
+      <link>https://ZhengTiger.github.io/project/brian-omics/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZhengTiger.github.io/project/brian-omics/</guid>
+      <description>&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/core-js/shim.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/react/react.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/react/react-dom.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/reactwidget/react-tools.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/reactable/reactable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/reactable-binding/reactable.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;code&gt;Brian-Omics&lt;/code&gt; contains a series of projects, which decipher brain using multi-omics techniques. You can visit Github for more details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Brian-Omics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Brian-Omics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It currently contains the following projects:&lt;/p&gt;
+&lt;div class=&#34;reactable html-widget html-fill-item&#34; id=&#34;htmlwidget-1&#34; style=&#34;width:auto;height:auto;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;SPIDER-Seq&#34;,&#34;SPIDER-web&#34;,&#34;PFC_develop&#34;,&#34;PFCdev-web&#34;],&#34;Image&#34;:[&#34;https://zhengtiger.github.io/publication/modular-organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spieder-seq/featured_hubb15101c39261abedd05c4f776cb3e74_5316030_720x2500_fit_q75_h2_lanczos.webp&#34;,&#34;https://zhengtiger.github.io/picx-images-hosting/PFCapp/Logo-circle.7sn4nqapcl.png&#34;,&#34;https://zhengtiger.github.io/publication/single-cell-spatiotemporal-transcriptome-dynamics-of-mouse-prefrontal-cortex-intratelencephalic-neurons-during-postnatal-development/featured_hu0aa4a38fb461ede910c4c9959d05751f_1229546_720x2500_fit_q75_h2_lanczos.webp&#34;,&#34;https://zhengtiger.github.io/picx-images-hosting/PFCdev/Logo.3yemp7xp5k.webp&#34;],&#34;Github&#34;:[&#34;https://github.com/Brian-Omics/SPIDER-Seq&#34;,&#34;https://github.com/Brian-Omics/SPIDER-web&#34;,&#34;https://github.com/Brian-Omics/PFC_develop&#34;,&#34;https://github.com/Brian-Omics/PFCdev-web&#34;],&#34;Description&#34;:[&#34;Modular organization of mouse prefrontal cortex subnetwork revealed by spatial single-cell multi-omic analysis of SPIDER-Seq&#34;,&#34;SPIDER-web is a shiny application that allows users to interactively access our data&#34;,&#34;Spatiotemporal molecular and cellular dynamics of intratelencephalic neurons in mouse prefrontal cortex during postnatal development&#34;,&#34;PFCdev-web is a shiny application that allows users to interactively access our data&#34;]},&#34;columns&#34;:[{&#34;id&#34;:&#34;Name&#34;,&#34;name&#34;:&#34;Name&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;cell&#34;:[{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Brian-Omics/SPIDER-Seq&#34;},&#34;children&#34;:[&#34;SPIDER-Seq&#34;]},{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Brian-Omics/SPIDER-web&#34;},&#34;children&#34;:[&#34;SPIDER-web&#34;]},{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Brian-Omics/PFC_develop&#34;},&#34;children&#34;:[&#34;PFC_develop&#34;]},{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Brian-Omics/PFCdev-web&#34;},&#34;children&#34;:[&#34;PFCdev-web&#34;]}],&#34;maxWidth&#34;:150,&#34;align&#34;:&#34;left&#34;},{&#34;id&#34;:&#34;Image&#34;,&#34;name&#34;:&#34;Image&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;cell&#34;:[{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://zhengtiger.github.io/publication/modular-organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spieder-seq/featured_hubb15101c39261abedd05c4f776cb3e74_5316030_720x2500_fit_q75_h2_lanczos.webp&#34;},&#34;children&#34;:[]},{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://zhengtiger.github.io/picx-images-hosting/PFCapp/Logo-circle.7sn4nqapcl.png&#34;},&#34;children&#34;:[]},{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://zhengtiger.github.io/publication/single-cell-spatiotemporal-transcriptome-dynamics-of-mouse-prefrontal-cortex-intratelencephalic-neurons-during-postnatal-development/featured_hu0aa4a38fb461ede910c4c9959d05751f_1229546_720x2500_fit_q75_h2_lanczos.webp&#34;},&#34;children&#34;:[]},{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://zhengtiger.github.io/picx-images-hosting/PFCdev/Logo.3yemp7xp5k.webp&#34;},&#34;children&#34;:[]}],&#34;maxWidth&#34;:150,&#34;align&#34;:&#34;left&#34;},{&#34;id&#34;:&#34;Github&#34;,&#34;name&#34;:&#34;Github&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;show&#34;:false},{&#34;id&#34;:&#34;Description&#34;,&#34;name&#34;:&#34;Description&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;align&#34;:&#34;left&#34;}],&#34;dataKey&#34;:&#34;951403f29cb55dce85adb60a440398cd&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 </description>
     </item>
     
     <item>
-      <title>blogdown-book-zh-cn</title>
-      <link>https://ZhengTiger.github.io/project/blogdown-book-zh-cn/</link>
-      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://ZhengTiger.github.io/project/blogdown-book-zh-cn/</guid>
-      <description>&lt;p&gt;&lt;code&gt;blogdown-book-zh-cn&lt;/code&gt; project attempts to translate &lt;strong&gt;blogdown: Creating Websites with R Markdown&lt;/strong&gt; into Simplified Chinese.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>r-pkgs-zh-cn</title>
-      <link>https://ZhengTiger.github.io/project/r-pkgs-zh-cn/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ZhengTiger.github.io/project/r-pkgs-zh-cn/</guid>
-      <description>&lt;p&gt;&lt;code&gt;r-pkgs-zh-cn&lt;/code&gt; project attempts to translate &lt;strong&gt;R Packages (the second edition)&lt;/strong&gt; into Simplified Chinese.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>r4ds-zh-cn</title>
-      <link>https://ZhengTiger.github.io/project/r4ds-zh-cn/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ZhengTiger.github.io/project/r4ds-zh-cn/</guid>
-      <description>&lt;p&gt;&lt;code&gt;r4ds-zh-cn&lt;/code&gt; project attempts to translate &lt;strong&gt;R for Data Science (the second edition)&lt;/strong&gt; into Simplified Chinese.&lt;/p&gt;
+      <title>Books-zh-cn</title>
+      <link>https://ZhengTiger.github.io/project/books-zh-cn/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZhengTiger.github.io/project/books-zh-cn/</guid>
+      <description>&lt;script src=&#34;https://ZhengTiger.github.io/project/books-zh-cn/index_files/core-js/shim.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/books-zh-cn/index_files/react/react.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/books-zh-cn/index_files/react/react-dom.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/books-zh-cn/index_files/reactwidget/react-tools.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://ZhengTiger.github.io/project/books-zh-cn/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/books-zh-cn/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://ZhengTiger.github.io/project/books-zh-cn/index_files/reactable/reactable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/books-zh-cn/index_files/reactable-binding/reactable.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;code&gt;Books-zh-cn&lt;/code&gt; project attempts to translate a collection of open source books in Simplified Chinese. You can visit Github for more details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Books-zh-cn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Books-zh-cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It currently contains the following books:&lt;/p&gt;
+&lt;div class=&#34;reactable html-widget html-fill-item&#34; id=&#34;htmlwidget-1&#34; style=&#34;width:auto;height:auto;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;r4ds-zh-cn&#34;,&#34;r-pkgs-zh-cn&#34;,&#34;mastering-shiny-zh-cn&#34;,&#34;blogdown-book-zh-cn&#34;],&#34;Image&#34;:[&#34;https://books-zh-cn.github.io/r4ds-zh-cn/cover.jpg&#34;,&#34;https://books-zh-cn.github.io/r-pkgs-zh-cn/images/cover-2e-small.png&#34;,&#34;https://books-zh-cn.github.io/mastering-shiny-zh-cn/cover.png&#34;,&#34;https://books-zh-cn.github.io/blogdown-book-zh-cn/images/cover.png&#34;],&#34;Github&#34;:[&#34;https://github.com/Books-zh-cn/r4ds-zh-cn&#34;,&#34;https://github.com/Books-zh-cn/r-pkgs-zh-cn&#34;,&#34;https://github.com/Books-zh-cn/mastering-shiny-zh-cn&#34;,&#34;https://github.com/Books-zh-cn/blogdown-book-zh-cn&#34;],&#34;Description&#34;:[&#34;《R for Data Science (the second edition)》--- Hadley Wickham&#34;,&#34;《R Packages (the second edition)》--- Hadley Wickham&#34;,&#34;《Mastering Shiny》--- Hadley Wickham&#34;,&#34;《blogdown: Creating Websites with R Markdown》--- Yihui Xie&#34;]},&#34;columns&#34;:[{&#34;id&#34;:&#34;Name&#34;,&#34;name&#34;:&#34;Name&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;cell&#34;:[{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Books-zh-cn/r4ds-zh-cn&#34;},&#34;children&#34;:[&#34;r4ds-zh-cn&#34;]},{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Books-zh-cn/r-pkgs-zh-cn&#34;},&#34;children&#34;:[&#34;r-pkgs-zh-cn&#34;]},{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Books-zh-cn/mastering-shiny-zh-cn&#34;},&#34;children&#34;:[&#34;mastering-shiny-zh-cn&#34;]},{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Books-zh-cn/blogdown-book-zh-cn&#34;},&#34;children&#34;:[&#34;blogdown-book-zh-cn&#34;]}],&#34;maxWidth&#34;:150,&#34;align&#34;:&#34;left&#34;},{&#34;id&#34;:&#34;Image&#34;,&#34;name&#34;:&#34;Image&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;cell&#34;:[{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://books-zh-cn.github.io/r4ds-zh-cn/cover.jpg&#34;},&#34;children&#34;:[]},{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://books-zh-cn.github.io/r-pkgs-zh-cn/images/cover-2e-small.png&#34;},&#34;children&#34;:[]},{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://books-zh-cn.github.io/mastering-shiny-zh-cn/cover.png&#34;},&#34;children&#34;:[]},{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://books-zh-cn.github.io/blogdown-book-zh-cn/images/cover.png&#34;},&#34;children&#34;:[]}],&#34;maxWidth&#34;:150,&#34;align&#34;:&#34;left&#34;},{&#34;id&#34;:&#34;Github&#34;,&#34;name&#34;:&#34;Github&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;show&#34;:false},{&#34;id&#34;:&#34;Description&#34;,&#34;name&#34;:&#34;Description&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;align&#34;:&#34;left&#34;}],&#34;dataKey&#34;:&#34;af97b80b63959f7442b3e74b7502c2d3&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 </description>
     </item>
     
@@ -57,6 +64,11 @@
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ZhengTiger.github.io/project/biorplot/</guid>
       <description>&lt;p&gt;&lt;code&gt;Biorplot&lt;/code&gt; is an R package for plotting bioinformatics graphs with low-code.&lt;/p&gt;
+&lt;p&gt;For more information please see the following links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/ZhengTiger/Biorplot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ZhengTiger/Biorplot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://ZhengTiger.github.io/Biorplot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ZhengTiger.github.io/Biorplot/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -74,6 +86,10 @@
 &lt;li&gt;compartment analysis&lt;/li&gt;
 &lt;li&gt;show result above with coolbox&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;For more information please see the following links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/ilead-cong/hic_down&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ilead-cong/hic_down&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
