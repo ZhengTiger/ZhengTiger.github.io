@@ -13,9 +13,55 @@
     </image>
     
     <item>
+      <title>Bizard</title>
+      <link>https://ZhengTiger.github.io/project/bizard/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZhengTiger.github.io/project/bizard/</guid>
+      <description>&lt;h2 id=&#34;welcome-&#34;&gt;Welcome 🎉&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Bizard&lt;/code&gt; is a comprehensive, community-driven platform that integrates a curated repository of visualization codes, advanced tutorials, and collaborative forums. By streamlining access to resources and promoting knowledge exchange, &lt;code&gt;Bizard&lt;/code&gt; aims to enhance biomedical researchers’ data analysis capabilities and facilitate the clinical translation of research findings.&lt;/p&gt;
+&lt;p&gt;For more information please see the following links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/openbiox/Bizard&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/openbiox/Bizard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://openbiox.github.io/Bizard/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openbiox.github.io/Bizard/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-is-bizard&#34;&gt;What is Bizard?&lt;/h2&gt;
+&lt;p&gt;Bizard brings together powerful visualization tools, curated code, and collaborative features, enabling researchers to streamline data analysis and present their findings in a clear and impactful way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Comprehensive Visualization Repository:&lt;/strong&gt; Bizard consolidates visualization codes from diverse sources, including conventional graphgallery charts and innovative contributions from global experts, providing a state-of-the-art toolkit for biomedical research.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Versatile Chart Options:&lt;/strong&gt; The repository features R code implementations for a wide range of visualizations—variable distributions, correlation analyses, ranking plots, and interactive charts—meeting diverse data analysis needs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Real-World Applications:&lt;/strong&gt; Leveraging both native R datasets and authentic biomedical data examples, Bizard enables intuitive understanding and application of visualization techniques in real-world research contexts, accelerating clinical translation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tailored for Biomedical Data:&lt;/strong&gt; Includes preprocessing algorithms, annotated plotting codes, and specialized methodologies to accommodate the complexities of biomedical datasets, making advanced visualization accessible even to users with limited programming expertise.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Integrated Statistical Analysis:&lt;/strong&gt; Combines statistical analysis functions with visualization modules, ensuring rigorous, visually compelling outputs that bolster research reliability and advance evidence-based medicine.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Collaborative and Open Innovation:&lt;/strong&gt; Actively invites contributions from biomedical experts to refine features and address evolving data visualization challenges through collective expertise.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Multi-Platform Accessibility:&lt;/strong&gt; Offers resources through an open-source GitHub repository with interactive forums and a WeChat official account for tutorials and updates, fostering knowledge sharing and collaboration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Driving Research Excellence:&lt;/strong&gt; Empowers researchers to elevate their data visualization skills, improve methodological standards, and advance precision medicine and personalized therapies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Future Vision:&lt;/strong&gt; Committed to expanding international collaborations and delivering innovative, refined solutions to address the growing complexity of biomedical data visualization and analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Brian-Omics</title>
       <link>https://ZhengTiger.github.io/project/brian-omics/</link>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://ZhengTiger.github.io/project/brian-omics/</guid>
       <description>&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/core-js/shim.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/react/react.min.js&#34;&gt;&lt;/script&gt;
@@ -38,7 +84,7 @@
     <item>
       <title>Books-zh-cn</title>
       <link>https://ZhengTiger.github.io/project/books-zh-cn/</link>
-      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://ZhengTiger.github.io/project/books-zh-cn/</guid>
       <description>&lt;script src=&#34;https://ZhengTiger.github.io/project/books-zh-cn/index_files/core-js/shim.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://ZhengTiger.github.io/project/books-zh-cn/index_files/react/react.min.js&#34;&gt;&lt;/script&gt;
