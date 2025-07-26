@@ -17,7 +17,18 @@
       <link>https://ZhengTiger.github.io/project/bizard/</link>
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://ZhengTiger.github.io/project/bizard/</guid>
-      <description>&lt;h2 id=&#34;welcome-&#34;&gt;Welcome 🎉&lt;/h2&gt;
+      <description>&lt;div align=&#34;left&#34;&gt;
+  &lt;a href=&#34;https://github.com/openbiox/Bizard&#34; target=&#34;_blank&#34;&gt;
+    &lt;img alt=&#34;GitHub Repo stars&#34; style=&#34;display: inline-block; margin-right: 5px;&#34; src=&#34;https://img.shields.io/github/stars/openbiox/Bizard?style=flat&amp;logo=github&amp;color=%23181717&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;https://github.com/openbiox/Bizard&#34; target=&#34;_blank&#34;&gt;
+    &lt;img alt=&#34;Static Badge&#34; style=&#34;display: inline-block; margin-right: 5px;&#34; src=&#34;https://img.shields.io/badge/R-Language-brightgreen?style=flat&amp;logo=r&amp;color=%23276DC3&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;https://openbiox.github.io/Bizard&#34; target=&#34;_blank&#34;&gt;
+    &lt;img alt=&#34;Website Application&#34; style=&#34;display: inline-block;&#34; src=&#34;https://img.shields.io/badge/build-Live-brightgreen?style=flat&amp;label=Web%20App&#34;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;welcome-&#34;&gt;Welcome 🎉&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;Bizard&lt;/code&gt; is a comprehensive, community-driven platform that integrates a curated repository of visualization codes, advanced tutorials, and collaborative forums. By streamlining access to resources and promoting knowledge exchange, &lt;code&gt;Bizard&lt;/code&gt; aims to enhance biomedical researchers’ data analysis capabilities and facilitate the clinical translation of research findings.&lt;/p&gt;
 &lt;p&gt;For more information please see the following links:&lt;/p&gt;
 &lt;ul&gt;
@@ -59,11 +70,56 @@
     </item>
     
     <item>
+      <title>CNScolor</title>
+      <link>https://ZhengTiger.github.io/project/cnscolor/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZhengTiger.github.io/project/cnscolor/</guid>
+      <description>&lt;div align=&#34;left&#34;&gt;
+  &lt;a href=&#34;https://github.com/ZhengTiger/CNScolor&#34; target=&#34;_blank&#34;&gt;
+    &lt;img alt=&#34;GitHub Repo stars&#34; style=&#34;display: inline-block; margin-right: 5px;&#34; src=&#34;https://img.shields.io/github/stars/ZhengTiger/CNScolor?style=flat&amp;logo=github&amp;color=%23181717&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;https://tigerz.shinyapps.io/CNScolor/&#34; target=&#34;_blank&#34;&gt;
+    &lt;img alt=&#34;Website Application&#34; style=&#34;display: inline-block;&#34; src=&#34;https://img.shields.io/badge/build-Live-brightgreen?style=flat&amp;label=Web%20App&#34;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;code&gt;CNScolor&lt;/code&gt; is an open source project for collecting top journal color palettes.&lt;/p&gt;
+&lt;p&gt;For more information please see the following links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/ZhengTiger/CNScolor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ZhengTiger/CNScolor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Website: &lt;a href=&#34;https://tigerz.shinyapps.io/CNScolor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tigerz.shinyapps.io/CNScolor/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cnscolor-overview&#34;&gt;CNScolor Overview&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;CNScolor&lt;/code&gt; includes a shiny online website:&lt;/p&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/ZhengTiger/CNScolor/main/video.gif&#34; width=&#34;100%&#34; /&gt;
+&lt;p&gt;The sidebars on the left is used to select the color palettes to be displayed:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Color Palette:&lt;/strong&gt; To select the ID of the color palettes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Color Number:&lt;/strong&gt; To select the color number&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Color Code:&lt;/strong&gt; To display the list of HEX and RGB color codes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HEX/RGB Copy:&lt;/strong&gt; To copy the HEX and RGB color codes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;HEX&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#1d52a1&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;#716db2&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;#65c8cc&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;#72c15a&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;RGB&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;29,82,161&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;113,109,178&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;101,200,204&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;114,193,90&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
       <title>Biorplot</title>
       <link>https://ZhengTiger.github.io/project/biorplot/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://ZhengTiger.github.io/project/biorplot/</guid>
-      <description>&lt;p&gt;&lt;code&gt;Biorplot&lt;/code&gt; is an R package for plotting bioinformatics graphs with low-code.&lt;/p&gt;
+      <description>&lt;div align=&#34;left&#34;&gt;
+  &lt;a href=&#34;https://github.com/ZhengTiger/Biorplot&#34; target=&#34;_blank&#34;&gt;
+    &lt;img alt=&#34;GitHub Repo stars&#34; style=&#34;display: inline-block; margin-right: 5px;&#34; src=&#34;https://img.shields.io/github/stars/ZhengTiger/Biorplot?style=flat&amp;logo=github&amp;color=%23181717&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;https://zhengtiger.github.io/Biorplot/&#34; target=&#34;_blank&#34;&gt;
+    &lt;img alt=&#34;Website Application&#34; style=&#34;display: inline-block; margin-right: 5px;&#34; src=&#34;https://img.shields.io/badge/build-Live-brightgreen?style=flat&amp;label=Web%20App&#34;&gt;
+  &lt;/a&gt;
+  &lt;a href=&#34;https://github.com/ZhengTiger/Biorplot/releases&#34; target=&#34;_blank&#34;&gt;
+    &lt;img alt=&#34;Static Badge&#34; style=&#34;display: inline-block;&#34; src=&#34;https://img.shields.io/badge/release-v0.0.1-brightgreen?color=%23f58142&#34;&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;code&gt;Biorplot&lt;/code&gt; is an R package for plotting bioinformatics graphs with low-code.&lt;/p&gt;
 &lt;p&gt;For more information please see the following links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Github: &lt;a href=&#34;https://github.com/ZhengTiger/Biorplot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/ZhengTiger/Biorplot&lt;/a&gt;&lt;/li&gt;

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single Cell Analysis | Hu Zheng</title>
+    <link>https://ZhengTiger.github.io/tag/single-cell-analysis/</link>
+      <atom:link href="https://ZhengTiger.github.io/tag/single-cell-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Single Cell Analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZhengTiger.github.io/media/logo_hu34d101b141150f03f37470572482d990_89726_300x300_fit_lanczos_3.png</url>
+      <title>Single Cell Analysis</title>
+      <link>https://ZhengTiger.github.io/tag/single-cell-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Brian-Omics</title>
+      <link>https://ZhengTiger.github.io/project/brian-omics/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZhengTiger.github.io/project/brian-omics/</guid>
+      <description>&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/core-js/shim.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/react/react.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/react/react-dom.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/reactwidget/react-tools.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/reactable/reactable.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://ZhengTiger.github.io/project/brian-omics/index_files/reactable-binding/reactable.js&#34;&gt;&lt;/script&gt;
+&lt;div align=&#34;left&#34;&gt;
+&lt;a href=&#34;https://github.com/Brian-Omics&#34; target=&#34;_blank&#34;&gt;
+&lt;img alt=&#34;GitHub Org&#39;s stars&#34; style=&#34;display: inline-block; margin-right: 5px;&#34; src=&#34;https://img.shields.io/github/stars/Brian-Omics?style=flat&amp;logo=github&amp;color=%23181717&#34;&gt;
+&lt;/a&gt;
+&lt;a href=&#34;https://github.com/Brian-Omics&#34; target=&#34;_blank&#34;&gt;
+&lt;img alt=&#34;GitHub followers&#34; style=&#34;display: inline-block; margin-right: 5px;&#34; src=&#34;https://img.shields.io/github/followers/Brian-Omics?style=flat&amp;logo=refinedgithub&amp;color=%239E95B7&#34;&gt;
+&lt;/a&gt;
+&lt;a href=&#34;https://github.com/Brian-Omics&#34; target=&#34;_blank&#34;&gt;
+&lt;img alt=&#34;Static Badge&#34; style=&#34;display: inline-block; margin-right: 5px;&#34; src=&#34;https://img.shields.io/badge/R-Language-brightgreen?style=flat&amp;logo=r&amp;color=%23276DC3&#34;&gt;
+&lt;/a&gt;
+&lt;a href=&#34;https://github.com/Brian-Omics&#34; target=&#34;_blank&#34;&gt;
+&lt;img alt=&#34;Website Application&#34; style=&#34;display: inline-block;&#34; src=&#34;https://img.shields.io/badge/build-Live-brightgreen?style=flat&amp;label=Web%20App&#34;&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;code&gt;Brian-Omics&lt;/code&gt; contains a series of projects, which decipher brain using multi-omics techniques. You can visit Github for more details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Brian-Omics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Brian-Omics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It currently contains the following projects:&lt;/p&gt;
+&lt;div class=&#34;reactable html-widget html-fill-item&#34; id=&#34;htmlwidget-1&#34; style=&#34;width:auto;height:auto;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;tag&#34;:{&#34;name&#34;:&#34;Reactable&#34;,&#34;attribs&#34;:{&#34;data&#34;:{&#34;Name&#34;:[&#34;SPIDER-Seq&#34;,&#34;SPIDER-web&#34;,&#34;PFC_develop&#34;,&#34;PFCdev-web&#34;],&#34;Image&#34;:[&#34;https://zhengtiger.github.io/publication/modular-organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spieder-seq/featured_hubb15101c39261abedd05c4f776cb3e74_5316030_720x2500_fit_q75_h2_lanczos.webp&#34;,&#34;https://zhengtiger.github.io/picx-images-hosting/PFCapp/Logo-circle.7sn4nqapcl.png&#34;,&#34;https://zhengtiger.github.io/publication/spatiotemporal-molecular-and-cellular-dynamics-of-intratelencephalic-neurons-in-mouse-prefrontal-cortex-during-postnatal-development/featured_hu0aa4a38fb461ede910c4c9959d05751f_1287995_720x2500_fit_q75_h2_lanczos.webp&#34;,&#34;https://zhengtiger.github.io/picx-images-hosting/PFCdev/Logo.3yemp7xp5k.webp&#34;],&#34;Github&#34;:[&#34;https://github.com/Brian-Omics/SPIDER-Seq&#34;,&#34;https://github.com/Brian-Omics/SPIDER-web&#34;,&#34;https://github.com/Brian-Omics/PFC_develop&#34;,&#34;https://github.com/Brian-Omics/PFCdev-web&#34;],&#34;Description&#34;:[&#34;Modular organization of mouse prefrontal cortex subnetwork revealed by spatial single-cell multi-omic analysis of SPIDER-Seq&#34;,&#34;SPIDER-web is a shiny application that allows users to interactively access our data&#34;,&#34;Spatiotemporal molecular and cellular dynamics of intratelencephalic neurons in mouse prefrontal cortex during postnatal development&#34;,&#34;PFCdev-web is a shiny application that allows users to interactively access our data&#34;]},&#34;columns&#34;:[{&#34;id&#34;:&#34;Name&#34;,&#34;name&#34;:&#34;Name&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;cell&#34;:[{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Brian-Omics/SPIDER-Seq&#34;},&#34;children&#34;:[&#34;SPIDER-Seq&#34;]},{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Brian-Omics/SPIDER-web&#34;},&#34;children&#34;:[&#34;SPIDER-web&#34;]},{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Brian-Omics/PFC_develop&#34;},&#34;children&#34;:[&#34;PFC_develop&#34;]},{&#34;name&#34;:&#34;a&#34;,&#34;attribs&#34;:{&#34;href&#34;:&#34;https://github.com/Brian-Omics/PFCdev-web&#34;},&#34;children&#34;:[&#34;PFCdev-web&#34;]}],&#34;maxWidth&#34;:150,&#34;align&#34;:&#34;left&#34;},{&#34;id&#34;:&#34;Image&#34;,&#34;name&#34;:&#34;Image&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;cell&#34;:[{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://zhengtiger.github.io/publication/modular-organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spieder-seq/featured_hubb15101c39261abedd05c4f776cb3e74_5316030_720x2500_fit_q75_h2_lanczos.webp&#34;},&#34;children&#34;:[]},{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://zhengtiger.github.io/picx-images-hosting/PFCapp/Logo-circle.7sn4nqapcl.png&#34;},&#34;children&#34;:[]},{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://zhengtiger.github.io/publication/spatiotemporal-molecular-and-cellular-dynamics-of-intratelencephalic-neurons-in-mouse-prefrontal-cortex-during-postnatal-development/featured_hu0aa4a38fb461ede910c4c9959d05751f_1287995_720x2500_fit_q75_h2_lanczos.webp&#34;},&#34;children&#34;:[]},{&#34;name&#34;:&#34;img&#34;,&#34;attribs&#34;:{&#34;src&#34;:&#34;https://zhengtiger.github.io/picx-images-hosting/PFCdev/Logo.3yemp7xp5k.webp&#34;},&#34;children&#34;:[]}],&#34;maxWidth&#34;:150,&#34;align&#34;:&#34;left&#34;},{&#34;id&#34;:&#34;Github&#34;,&#34;name&#34;:&#34;Github&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;show&#34;:false},{&#34;id&#34;:&#34;Description&#34;,&#34;name&#34;:&#34;Description&#34;,&#34;type&#34;:&#34;character&#34;,&#34;vAlign&#34;:&#34;center&#34;,&#34;headerClassName&#34;:&#34;header&#34;,&#34;align&#34;:&#34;left&#34;}],&#34;dataKey&#34;:&#34;c2ae87f50abf2a377fc02391c196c6ca&#34;},&#34;children&#34;:[]},&#34;class&#34;:&#34;reactR_markup&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
