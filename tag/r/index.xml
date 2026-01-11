@@ -27,9 +27,13 @@
   &lt;a href=&#34;https://openbiox.github.io/Bizard&#34; target=&#34;_blank&#34;&gt;
     &lt;img alt=&#34;Website Application&#34; style=&#34;display: inline-block;&#34; src=&#34;https://img.shields.io/badge/build-Live-brightgreen?style=flat&amp;label=Web%20App&#34;&gt;
   &lt;/a&gt;
+  &lt;a href=&#34;https://deepwiki.com/openbiox/Bizard&#34; target=&#34;_blank&#34;&gt;
+    &lt;img alt=&#34;Ask DeepWik&#34; style=&#34;display: inline-block;&#34; src=&#34;https://deepwiki.com/badge.svg&#34;&gt;
+  &lt;/a&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;welcome-&#34;&gt;Welcome 🎉&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;Bizard&lt;/code&gt; is a comprehensive, community-driven platform that integrates a curated repository of visualization codes, advanced tutorials, and collaborative forums. By streamlining access to resources and promoting knowledge exchange, &lt;code&gt;Bizard&lt;/code&gt; aims to enhance biomedical researchers’ data analysis capabilities and facilitate the clinical translation of research findings.&lt;/p&gt;
+&lt;p&gt;Data visualization is a critical tool in biomedical research, enabling intuitive interpretation of complex datasets to advance scientific discovery and inform clinical decisions. The R programming language, with its powerful statistical capabilities and extensive package ecosystem, has become a cornerstone for creating high-quality visualizations. However, the vast and ever-evolving landscape of R plotting packages often poses challenges for researchers, who must select appropriate methods and customize visualizations to meet specific research needs. This process demands advanced coding expertise, interdisciplinary collaboration, and significant time investment, which can hinder progress and impact the accuracy of experimental outcomes.&lt;/p&gt;
+&lt;p&gt;To address these challenges, we developed &lt;strong&gt;Bizard&lt;/strong&gt;, a comprehensive, community-driven platform that integrates a curated repository of visualization codes, advanced tutorials, and collaborative forums. By streamlining access to resources and promoting knowledge exchange, Bizard aims to enhance biomedical researchers’ data analysis capabilities and facilitate the clinical translation of research findings.&lt;/p&gt;
 &lt;p&gt;For more information please see the following links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Github: &lt;a href=&#34;https://github.com/openbiox/Bizard&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/openbiox/Bizard&lt;/a&gt;&lt;/li&gt;
