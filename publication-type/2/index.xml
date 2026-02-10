@@ -5,12 +5,20 @@
     <link>https://ZhengTiger.github.io/publication-type/2/</link>
       <atom:link href="https://ZhengTiger.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZhengTiger.github.io/media/logo_hu34d101b141150f03f37470572482d990_89726_300x300_fit_lanczos_3.png</url>
       <title>2</title>
       <link>https://ZhengTiger.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Organization of mouse prefrontal cortex subnetwork revealed by spatial single-cell multi-omic analysis of SPIDER-Seq</title>
+      <link>https://ZhengTiger.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spieder-seq/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ZhengTiger.github.io/publication/organization-of-mouse-prefrontal-cortex-subnetwork-revealed-by-spatial-single-cell-multi-omic-analysis-of-spieder-seq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A single-cell spatiotemporal transcriptomic atlas of mouse prefrontal cortex maps dynamics of intratelencephalic neurons during postnatal development</title>
