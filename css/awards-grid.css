@@ -1,0 +1,152 @@
+/* Awards grid cards */
+#awards .row {
+  align-items: flex-start;
+}
+
+#awards .section-heading,
+#awards .awards-card-grid {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+#awards .section-heading {
+  margin-bottom: 1rem !important;
+}
+
+#awards .awards-card-grid {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  align-items: stretch;
+}
+
+#awards .awards-card-grid > .card.experience.course {
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 16px;
+  background: linear-gradient(145deg, rgba(38, 46, 56, 0.92), rgba(27, 33, 41, 0.9)) !important;
+  box-shadow:
+    0 10px 24px rgba(0, 0, 0, 0.22),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  transition: transform 220ms ease, box-shadow 220ms ease, border-color 220ms ease;
+  transform-origin: center center;
+  height: 100%;
+}
+
+#awards .awards-card-grid > .card.experience.course::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(220px 90px at 10% 0%, rgba(0, 124, 72, 0.22), transparent 65%),
+    radial-gradient(160px 80px at 100% 100%, rgba(111, 66, 193, 0.14), transparent 70%);
+  pointer-events: none;
+}
+
+#awards .awards-card-grid > .card.experience.course::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 16px;
+  right: 16px;
+  height: 2px;
+  background: linear-gradient(90deg, rgba(0, 199, 123, 0.9), rgba(94, 234, 212, 0.65), rgba(255, 255, 255, 0));
+  opacity: 0.85;
+  pointer-events: none;
+}
+
+#awards .awards-card-grid > .card.experience.course:hover {
+  transform: translateY(-4px) scale(1.03);
+  border-color: rgba(94, 234, 212, 0.28);
+  box-shadow:
+    0 20px 38px rgba(0, 0, 0, 0.28),
+    0 0 0 1px rgba(0, 199, 123, 0.1),
+    0 0 30px rgba(0, 199, 123, 0.08);
+  z-index: 2;
+}
+
+#awards .awards-card-grid > .card.experience.course .card-body {
+  position: relative;
+  z-index: 1;
+  min-height: 172px;
+  padding: 1rem 1rem 0.95rem;
+}
+
+#awards .awards-card-grid > .card.experience.course .card-text {
+  margin-top: 0.75rem;
+  margin-bottom: 0;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+#awards .awards-card-grid > .card.experience.course .d-flex.align-content-start {
+  gap: 0.25rem;
+}
+
+#awards .awards-card-grid > .card.experience.course .mr-2.mb-2 {
+  margin-right: 0.65rem !important;
+  margin-bottom: 0 !important;
+  flex-shrink: 0;
+}
+
+#awards .awards-card-grid > .card.experience.course .mr-2.mb-2 img {
+  width: 46px !important;
+  height: 46px !important;
+  object-fit: contain;
+  padding: 6px;
+  border-radius: 12px;
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.02));
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+#awards .awards-card-grid > .card.experience.course .exp-title {
+  margin-top: 0.1rem !important;
+  margin-bottom: 0.3rem !important;
+  font-size: 1rem;
+  line-height: 1.25;
+  color: #fff !important;
+  letter-spacing: 0.01em;
+}
+
+#awards .awards-card-grid > .card.experience.course .article-metadata {
+  font-size: 0.82rem;
+  color: rgba(255, 255, 255, 0.72) !important;
+}
+
+#awards .awards-card-grid > .card.experience.course .article-metadata a {
+  color: rgba(184, 255, 230, 0.96) !important;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(184, 255, 230, 0.3);
+}
+
+#awards .awards-card-grid > .card.experience.course .article-metadata a:hover {
+  border-bottom-color: rgba(184, 255, 230, 0.75);
+}
+
+@media (min-width: 1400px) {
+  #awards .awards-card-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 991.98px) {
+  #awards .awards-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 575.98px) {
+  #awards .awards-card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  #awards .awards-card-grid > .card.experience.course .card-body {
+    min-height: 158px;
+  }
+}
